@@ -8,6 +8,6 @@ int main()
   int a = 10 ;
   int b = 20;
   cout << a << " " << b << endl;
-  swap(a,b);
+  swap(a , b);
   cout << a << " " << b << endl;
   }
